@@ -1,0 +1,31 @@
+.fundo-comentario{
+    background-position: 50% 50%; 
+    background-size: 100% auto; 
+    background-repeat: no-repeat; 
+    /*background-image: url("fundo-comentarios3.jpeg"); */
+    position: fixed; 
+    top: 0px; 
+    left: 0px; 
+    width: 1541px; 
+    height: 1131.09px; 
+    overflow: hidden; 
+    pointer-events: none; 
+    margin-left: 300px; 
+    margin-top: -101.547px; 
+    visibility: visible;
+    transform: translate3d(0px, 0px, 0px);
+}
+
+.adap-logoImage{
+    border-radius: 50%;
+}
+
+.img_fundo{
+    background-position: 50% 50%; 
+    background-size: 100% auto; 
+    background-repeat: no-repeat; 
+    background-image: url(./IMG-20190826-WA0077.jpg); 
+    position: fixed; top: 0px; left: 0px; width: 1657.45px; 
+    height: 928px; overflow: hidden; 
+    pointer-events: none; margin-left: 241.774px; margin-top: 0px; visibility: visible; transform: translate3d(0px, 0px, 0px);
+}
